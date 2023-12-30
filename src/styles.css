@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100vh;
+    max-height: 100vh;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+ /*    background-color: #050f1c;
+    background-image: linear-gradient(191deg, #050f1c 32%, #505e5d 100%); */
+    background-color: #97D9E1;
+    background-image: linear-gradient(315deg, #97D9E1 0%, #D9AFD9 100%);
+}
+
